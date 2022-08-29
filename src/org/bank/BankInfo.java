@@ -5,6 +5,7 @@ public class BankInfo extends AxisBank{
 		float a=22.7657f;
 		System.out.println("savings is "+a);
 		System.out.println("savings is "+a);
+		System.out.println("savings is "+a);
 
 	}
 	private void fixed() {
@@ -18,7 +19,7 @@ public class BankInfo extends AxisBank{
 		a.deposit();
 		a.saving();
 		a.fixed();
-		li
+		
 		
 	}
 

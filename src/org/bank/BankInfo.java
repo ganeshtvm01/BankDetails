@@ -11,6 +11,8 @@ public class BankInfo extends AxisBank{
 	private void fixed() {
 		float a=46675.7657f;
 		System.out.println("fixed is "+a);
+		System.out.println("fixed is "+a);
+		
 
 
 	}
